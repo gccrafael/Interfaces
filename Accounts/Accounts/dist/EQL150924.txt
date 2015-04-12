@@ -1,0 +1,5 @@
+EQ Account 150924 opened.	  Apr 1, 2015 2:13:37 PM
+Charge of: $15,000.00 for loan  	  Apr 1, 2015 2:14:15 PM
+Payment of: $1,000.00	  Apr 1, 2015 2:14:21 PM
+Interest charged of: $105.00  	  Apr 1, 2015 2:14:26 PM
+Charge of: $2,000.00 for loan declined - over limit!  	  Apr 1, 2015 2:14:52 PM

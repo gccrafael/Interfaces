@@ -1,0 +1,5 @@
+CC Account 864785 opened.	  Apr 1, 2015 2:11:54 PM
+Charge of: $1,000.00 for purchase  	  Apr 1, 2015 2:12:11 PM
+Payment of: $100.00	  Apr 1, 2015 2:12:23 PM
+Interest charged of: $6.75  	  Apr 1, 2015 2:12:38 PM
+Charge of: $100.00 for purchase declined - over limit!  	  Apr 1, 2015 2:12:56 PM
